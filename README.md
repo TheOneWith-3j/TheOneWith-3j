@@ -111,9 +111,14 @@ Unlock communication for the differently-abled with real-time American Sign Lang
 
 ## 📊 GitHub Stats & Trophies
 
+[![TheOneWith-3j's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOneWith-3j&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOneWith-3j&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheOneWith-3j&show_icons=true)](https://github.com/TheOneWith-3j)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TheOneWith-3j)](https://github.com/TheOneWith-3j)
 
+![](https://komarev.com/ghpvc/?username=TheOneWith-3j&color=blue)
 ---
 
 _Passionate about code, community, and creating cool stuff!_
