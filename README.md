@@ -1,118 +1,101 @@
 <!-- TheOneWith-3j | GitHub Profile README -->
 
-<h1 align="center">👋 Hey, I'm TheOneWith-3j!</h1>
-<h3 align="center">💻 Full Stack Developer | 🎮 Creator | 🧠 AI & DL Enthusiast</h3>
+<h1 align="center">👋 Hey, I'm <a href="https://github.com/TheOneWith-3j">TheOneWith-3j</a>!</h1>
+<h3 align="center">💻 Full Stack Developer | 🎮 Creator | 🤖 AI & Deep Learning Enthusiast</h3>
 <p align="center">Playful by nature, professional by practice.</p>
 
 ---
 
-### 💫 About Me
+## 🚀 About Me
 
-I’m a passionate **Full Stack Developer** who loves building digital experiences that are as fun as they are functional.  
-Whether it’s shipping a PWA or crafting an iOS masterpiece, I thrive on solving tough problems and learning something new every day.
+I’m a passionate **Full Stack Developer** who loves building digital experiences that are both **functional and fun**.  
+From scalable APIs to sleek frontends, I enjoy solving problems, learning new technologies, and turning ideas into impactful products.
 
 - 🎓 Full Stack Developer  
-- 🤖 Interested in **AI** and **Deep Learning**  
-- 💡 I enjoy building projects that make life easier and more enjoyable  
+- 🧠 Exploring **AI** & **Deep Learning**  
+- 💡 Passionate about innovation and building tools that make life smarter  
+- 🌱 Continuously learning and improving every day  
 
 ---
 
-### 🏆 Awards & Achievements
+## 🧰 Tech Stack
 
-- 🏅 **Project Lead** – [Somaiya Awards Management System](https://somaiyaawards.somaiya.edu)  
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,php,react,redux,express,fastapi,django,flask,bootstrap,tailwind,materialui,html,css&theme=dark" />
+</p>
+
+### ⚙️ Backend, Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,aws,vercel,netlify,postman,git,github&theme=dark" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=elasticsearch,mysql,postgres,sqlite,firebase&theme=dark" />
+</p>
+
+### 🎨 Design & Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,figma,androidstudio,apple,vite,vitest,jest,sentry&theme=dark" />
+</p>
+
+### 🤖 AI / Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch,sklearn,opencv,matlab,anaconda&theme=dark" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <b>🏅 Somaiya Awards Management System</b>
+      <br>
+      <a href="https://github.com/Somaiya-Awards/somaiya-awards"><img src="https://img.shields.io/badge/Code-100000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://somaiyaawards.somaiya.edu"><img src="https://img.shields.io/badge/Live-2C2C2C?style=flat&logo=vercel&logoColor=white" /></a>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <b>🌱 Khetseva</b>
+      <br>
+      <a href="https://github.com/TheOneWith-3j/KhetSeva"><img src="https://img.shields.io/badge/Code-100000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://khetseva.netlify.app"><img src="https://img.shields.io/badge/Live-2C2C2C?style=flat&logo=vercel&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <b>🎧 Audiobook Generator</b>
+      <br>
+      <a href="https://github.com/TheOneWith-3j/AudioBook-Generator"><img src="https://img.shields.io/badge/Code-100000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://youtu.be/Hrw8k90BiuQ"><img src="https://img.shields.io/badge/Demo-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <b>🤟 Sign Language Converter</b>
+      <br>
+      <a href="https://github.com/TheOneWith-3j/Sign-Language-Converter"><img src="https://img.shields.io/badge/Code-100000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://youtu.be/uEwaGspfxTE"><img src="https://img.shields.io/badge/Demo-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Highlights & Achievements
+
+- 🥇 **Lead Developer** – [Somaiya Awards Management System](https://somaiyaawards.somaiya.edu)  
 - 🌱 **Creator** – [Khetseva](https://khetseva.netlify.app)  
 - 🎧 **Builder** – [Audiobook Generator](https://github.com/TheOneWith-3j/AudioBook-Generator)  
-- 🤟 **Builder** – [Sign Language Converter](https://github.com/TheOneWith-3j/Sign-Language-Converter)
+- 🤟 **Innovator** – [Sign Language Converter](https://github.com/TheOneWith-3j/Sign-Language-Converter)  
 
 ---
 
-### 🧰 Tech Stack
-
-#### 💻 Languages & Frameworks  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,python,fastapi,django,ruby,php,html,css&theme=dark" />
-</p>
-
-#### ⚙️ Backend, DevOps & Security  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,git,github&theme=dark" />
-  <img src="https://img.shields.io/badge/OAuth-EB5424?style=flat&logo=oauth&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=flat&logo=githubactions&logoColor=white" />
-</p>
-
-#### 🧩 Databases & Cloud  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" />
-</p>
-
-#### 🎨 Design & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,framer,vscode,unrealengine&theme=dark" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white" />
-</p>
-
-#### 🤖 AI / Data Science  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-#### 🏅 [Somaiya Awards Management System](https://github.com/Somaiya-Awards/somaiya-awards)
-A full stack web app streamlining award applications and candidate selection for Somaiya Trust institutes.  
-**Stack:** React, TypeScript, TailwindCSS, MUI, Three.js, NodeJS, Express, Sequelize, JWT, MySQL  
-**Live Site:** [somaiyaawards.somaiya.edu](https://somaiyaawards.somaiya.edu)
-
----
-
-#### 🌱 [Khetseva](https://github.com/TheOneWith-3j/KhetSeva)
-Empowering farmers with a digital platform for community, resources, and support.  
-**Languages:** JavaScript (95.3%), HTML (2.9%), CSS (1.8%)  
-**Live Site:** [khetseva.netlify.app](https://khetseva.netlify.app)
-
----
-
-#### 🎧 [Audiobook Generator](https://github.com/TheOneWith-3j/AudioBook-Generator)
-Transform OCR PDFs into captivating audiobooks.  
-**Stack:** Python, pyttsx3, PyPDF2, pywhatkit, Tkinter  
-🎬 [Video Demo](https://youtu.be/Hrw8k90BiuQ)
-
----
-
-#### 🤟 [Sign Language Converter](https://github.com/TheOneWith-3j/Sign-Language-Converter)
-Unlock communication for the differently-abled with real-time ASL recognition and translation.  
-**Stack:** Python, CNN, OpenCV, Speech Recognition  
-🎬 [Video Demo](https://youtu.be/uEwaGspfxTE)
-
----
-
-### 🎉 Fun Facts
-
-- 🎮 Love experimenting with new tech and frameworks  
-- ☕ Coffee fuels both my commits and creativity  
-- 🎧 Music and coding go hand in hand  
-- 🧩 Always up for solving interesting challenges  
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:jashjoshi57@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jash-j-joshi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-  &nbsp;
-  <a href="https://github.com/TheOneWith-3j" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheOneWith-3j&show_icons=true&theme=radical&hide_border=true" height="165" />
@@ -133,4 +116,27 @@ Unlock communication for the differently-abled with real-time ASL recognition an
 
 ---
 
-<p align="center">✨ Passionate about code, community, and creating cool stuff! 🚀</p>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:jashjoshi57@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/theonewith-3j" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+  &nbsp;
+  <a href="https://x.com/TheOneWith_3j" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+  &nbsp;
+  <a href="https://github.com/TheOneWith-3j" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+</p>
+
+---
+
+## 🎉 Fun & Facts
+
+- ☕ Coffee powers my commits and creativity  
+- 🎮 Gamer at heart — code is my playground  
+- 🧩 Always up for solving interesting challenges  
+- 💬 *"Code is like humor. When you have to explain it, it’s bad."*  
+
+---
+
+<p align="center">✨ Passionate about <b>code, community, and creativity</b> — let’s build something amazing! 🚀</p>
