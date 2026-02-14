@@ -121,7 +121,7 @@ From scalable APIs to sleek frontends, I enjoy solving problems, learning new te
 <p align="center">
   <a href="mailto:jashjoshi57@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
   &nbsp;
-  <a href="www.linkedin.com/in/jash-j-joshi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+  <a href="https://www.linkedin.com/in/jash-j-joshi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
   &nbsp;
   <a href="https://github.com/TheOneWith-3j" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 </p>
